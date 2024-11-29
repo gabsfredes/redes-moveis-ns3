@@ -2,7 +2,7 @@
 # Simulação de Redes Móveis com simulador ns-3
 Esse projeto foi desenvolvido à fim de por em prática o conteúdo da disciplina de Introdução à Comunicação do curso de Engenharia de Computação da Universidade Federal do Pampa - [(UNIPAMPA)](https://unipampa.edu.br/)
 
-O projeto foi dividido para a turma em grupos de até 4 (quatro) alunos, e os assuntos a serem tratados foram divididos em 3 (três) frentes. Neste repositório, há o relatório dos resultados obtidos no pdr `Relatório.pdf`.
+O projeto foi dividido para a turma em grupos de até 4 (quatro) alunos, e os assuntos a serem tratados foram divididos em 3 (três) frentes. Neste repositório, há o relatório dos resultados obtidos no arquivo `Relatório.pdf`.
 
 ## Frente 1: Preparação de ambiente de Prototipagem
 Essa frente consiste na preparação do ambiente para relizar toda a prototipação/relatório do progrma. Cada aluno participante do projeto pode optar por utilizar VSCode, Juyter Notebook, Terminal, ou como quis julgar melhor realizar as prototipações e simulações, sem requisitos propostos.
