@@ -66,8 +66,8 @@ Após realizada a instalação conforme documentação do simulador, recomendamo
 
 - [Gabriel dos Santos Fredes](https://github.com/gabsfredes)
 - [Heitor Mauro Chavez Huarachi](https://github.com/elcabriton)
-- [Rafael Vieira Goncalves](https://github.com/)
-- [Vitor da Silva Moreira](https://github.com/)
+- [Rafael Vieira Goncalves](https://github.com/RafaUnipampa)
+- [Vitor da Silva Moreira](https://github.com/TANADOSVV)
 
 ## Contribuindo
 
